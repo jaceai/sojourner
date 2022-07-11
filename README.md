@@ -1,2 +1,2 @@
 # sojourner
-Comma-separated values (.csv) files of media that I consume in my free time
+Here are comma-separated values (.csv) files of various media that I consume in my free time.
