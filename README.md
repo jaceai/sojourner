@@ -1,2 +1,2 @@
 # sojourner
-Here are comma-separated values (.csv) files of various media that I consume in my free time.
+Sojourner is a collection of comma-separated values (.csv) metadata of media that I consume in my free time.
